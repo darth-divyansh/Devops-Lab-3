@@ -1,4 +1,4 @@
-# DevOps Lab 3
+# DevOps Lab 4
 ## Using Git Submodules and Hosting on GitHub Pages
 
 ## Objective
